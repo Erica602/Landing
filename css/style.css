@@ -1,0 +1,19 @@
+@import url("https://fonts.font.im/css?family=Hanalei+Fill|Josefin+Sans");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 10px;
+	margin: 0px;
+}
+h1,h2,h3{
+	font-family: 'Hanalei Fill', cursive;
+	font-weight: lighter;
+}
+a{
+	text-decoration: none;
+}
